@@ -1,0 +1,25 @@
+{
+    "name": "my-package",
+    "version": "1.0.0",
+    "dependencies": {
+      "inquirer": "^8.2.6"
+    },
+    "devDependencies": {
+      "jest": "^29.6.4"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "description": "A command-line application that generates simple logos for your projects.",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+
